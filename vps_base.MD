@@ -6,3 +6,11 @@ ssh:
 	user:root
 	ip:104.168.68.86
 	password:WJ9e9fSLP5n38Bqsq6
+
+购买vps:
+	racknerd.com
+	password:20021218lqs
+
+购买域名：
+	namesilo.com
+	password:@20021218Lqs
