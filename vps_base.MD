@@ -9,8 +9,10 @@ ssh:
 
 购买vps:
 	racknerd.com
+	username: 邮箱
 	password:20021218lqs
 
 购买域名：
 	namesilo.com
+	username:liqisong
 	password:@20021218Lqs
