@@ -5,7 +5,7 @@ panel:
 ssh:
 	user:root
 	ip:104.168.68.86
-	password:WJ9e9fSLP5n38Bqsq6
+	password:7117HYOq2Ah3YBhxrc
 
 购买vps:
 	racknerd.com
