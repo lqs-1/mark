@@ -5,7 +5,7 @@ panel:
 ssh:
 	user:root
 	ip:104.168.68.86
-	password:7117HYOq2Ah3YBhxrc     liqisong
+	password:vYz46K4hL6wRf5Lh5X
 
 购买vps:
 	racknerd.com
