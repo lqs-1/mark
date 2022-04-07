@@ -27,8 +27,8 @@ ssh:
 	@20021218Lqs
 	
 宝塔服务器账号：
-	外网面板地址: http://104.168.68.86:8888/219fb084
-	内网面板地址: http://104.168.68.86:8888/219fb084
-	username: krmqt3ep
-	password: QezRTxP0wig9
+	外网面板地址: http://104.168.68.86:8888/90f58fcd
+	内网面板地址: http://104.168.68.86:8888/90f58fcd
+	username: 9q6jtfgk
+	password: 3fa79558
 	
